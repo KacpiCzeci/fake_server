@@ -6,6 +6,7 @@
     "ingredients": "string[]",
     "items": "string[]",
     "amound": "string[]",
-    "recipe": "string[]"
+    "recipe": "string[]",
+    "image": "string"
   }
 }
