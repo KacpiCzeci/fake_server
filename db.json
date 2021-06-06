@@ -1,5 +1,5 @@
 {
-  "Drink": {
+  "Drink": [
     {
       "id": 1,
       "name": "212 Cocktail - drink z aperolem o bazie alkoholowej z tequili",
@@ -9,5 +9,5 @@
       "amound": ["2 części", "1 część", "2 części", ""],
       "recipe": ["Wszystkie składniki umieść w shakerze wraz z kostkami lodu i dobrze wstrząśnij.", "Następnie przecedź płyn z shakera do kieliszka koktajlowego.", "Dodatkowo kieliszek koktajlowy możesz przyozdobić kawałkiem grejpfruta."]
     }
-  }
+  ]
 }
