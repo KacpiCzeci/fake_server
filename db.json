@@ -1,0 +1,13 @@
+{
+  "Drink": {
+    {
+      "id": 1,
+      "name": "212 Cocktail - drink z aperolem o bazie alkoholowej z tequili",
+      "description": "Bez wątpienia mocny drink, gdzie oprócz tequili i aperolu występuje sok grejpfrutowy. Ziołowo-cytrusowy klimat z pokaźną dawką meksykańskiej tequili. Drink 212 Cocktail należy do tych mocnych, więc dawkę tequili można zmniejszyć według własnych upodobań. Nazwę zawdzięcza proporcjom użytym w tym przepisie. Podajemy go w kieliszku koktajlowym.",
+      "ingredients": ["tequila", "aperol", "sok grejpfrutowy", "kostki lodu"],
+      "items": ["shaker", "kieliszek"],
+      "amound": ["2 części", "1 część", "2 części", ""],
+      "recipe": ["Wszystkie składniki umieść w shakerze wraz z kostkami lodu i dobrze wstrząśnij.", "Następnie przecedź płyn z shakera do kieliszka koktajlowego.", "Dodatkowo kieliszek koktajlowy możesz przyozdobić kawałkiem grejpfruta."]
+    }
+  }
+}
