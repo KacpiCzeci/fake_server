@@ -2,6 +2,7 @@
   "Drink": [
     {
       "id": 1,
+      "size": "small",
       "name": "212 Cocktail - drink z aperolem o bazie alkoholowej z tequili",
       "description": "Bez wątpienia mocny drink, gdzie oprócz tequili i aperolu występuje sok grejpfrutowy. Ziołowo-cytrusowy klimat z pokaźną dawką meksykańskiej tequili. Drink 212 Cocktail należy do tych mocnych, więc dawkę tequili można zmniejszyć według własnych upodobań. Nazwę zawdzięcza proporcjom użytym w tym przepisie. Podajemy go w kieliszku koktajlowym.",
       "ingredients": ["Tequila", "Aperol", "Sok grejpfrutowy", "Kostki lodu"],
@@ -12,6 +13,7 @@
     },
     {
       "id": 2,
+      "size": "small",
       "name": "Aperol Spritz - najbardziej popularny drink z Aperolem i Prosecco",
       "description": "Aperol Spritz to przepis na rozkoszną mieszankę Aperolu i wina musującego Prosecco, dopełnionego wodą gazowaną. Musujący, lekko ziołowy i jakże prosty do wykonania. Warto dodać, że cieszy się on ostatnio coraz to większą popularnością. Ponadto nuty smakowe goryczki i pomarańczy z rabarbarem to nie jedyne co w tym drinku znajdziecie. Nie zapomnijmy o bąbelkach które przepływają między językiem a podniebieniem. Jako, że jest to drink ze słonecznej Italii, świetnie nadaję się na letnie upały. Nie jest za słodki, lekko orzeźwiający a podany na zimno, zdecydowania ochładza. Warto wiedzieć, że drink Aperol Spritz podajemy w kieliszku od białego wina, lub szampana.",
       "ingredients": ["Prosecco", "Aperol", "Woda gazowana", "Kostki lodu"],
@@ -22,6 +24,7 @@
     },
     {
       "id": 3,
+      "size": "small",
       "name": "Blue Lady - przepis na błękitny drink z ginem",
       "description": "Drink z ginem i sokiem cytrynowym, swoją błękitną barwę zawdzięcza likierowi Blue Curacao. Orzeźwiający słodko-kwaśny drink. Przepis na drink Blue Lady wymaga dużej ilości wyciśniętego soku z cytryny. Można go w pewnej części zamienić na sprite, my tak zrobiliśmy. Jest wtedy odrobinę słodszy.",
       "ingredients": ["Gin", "So z cytryny", "Likier Blue Curacao", "Kostki lodu"],
@@ -32,6 +35,7 @@
     },
     {
       "id": 4,
+      "size": "big",
       "name": "Gin Summer Night - jeden z przepisów kategorii drinki z ginem",
       "description": "Poza ginem przepis składa się z likieru Cointerau i soku pomarańczowego, dając smak pomarańczy mocno wyczuwalny. Ostateczny efekt kolorystyczny wschodu słońca nadaje grenadyna. Efektowny, prosty do wykonania a co najważniejsze dobry w smaku. Jeśli macie jakiś gin w domu, zdecydowanie polecam wypróbować go w tym miksie. Jeśli nie posiadacie likieru Cointreau spokojnie możecie zastąpić go syropem pomarańczowym. Podobny efekt z drinka Gin Summernight z użyciem grenadyny można zobaczyć w drinkach m.in Tequila Sunrise czy też Exotic Summernight.",
       "ingredients": ["Gin", "Likier Cointreau", "Grenadyna", "Sok pomarańczowy", "Kostki lodu"],
@@ -42,6 +46,7 @@
     },
     {
       "id": 5,
+      "size": "small",
       "name": "Count Mast Negroni - czyli klasyczny przepis w odmianie z Jagermeister",
       "description": "W oryginalnym Negroni mamy likier Campari, który w tym przepisie jest zastąpiony na Jagermeister. Drink składa się w równym proporcjach z ginu, wermutu martini słodkiego i Jagermeister. Drink jest dość mocny, aby zmniejszyć jego moc można zastosować większą proporcję słodkiego martini. Podajemy go w niskiej szklance lub kieliszku koktajlowym, ozdobionym skórką cytryny bądź limonki.",
       "ingredients": ["Wermut martini słodki", "Jagermeister", "Gin", "Kostki lodu"],
@@ -52,6 +57,7 @@
     },
     {
       "id": 6,
+      "size": "big",
       "name": "Jager o poranku - jedna z ciekawszych propozycji kategorii drinki z Jagermeister",
       "description": "Ciekawy warstwowy drink, który efekt dolnej warstwy nadaje syrop Blue Curacao. Górną warstwę dla kontrastu tworzy likier Jagrmeister. Ponadto procentów dodaje tu wódka. W przepisie najlepiej użyć wysokiej szklanki, która uwidoczni wszystkie warstwy. W przepisie należy użyć syropu, nie likieru Blue Curacao, aby opadł on na dno.",
       "ingredients": ["Jagermeister", "Wódka", "Sok grejpfrutowy", "Syrop Blue Curacao", "Kostki lodu"],
@@ -61,6 +67,7 @@
     },
     {
       "id": 7,
+      "size": "small",
       "name": "Red Coffee - Jagermeister i Kahlua w czerwonej odsłonie",
       "description": "Barwę i słodkość drinku zapewnia grenadyna, która dodaje charakteru do tego ziołowo-kawowego drinku. Ciekawa gama smakowa, jest wzbogacona odrobiną wódki, dającej dodatkowe procenty. Likier Kahlua możemy zastąpić syropem, bądź tańszym odpowiednikiem. Drink podajemy w kieliszki koktajlowym martini. Drink jest dość mocny, więc z wódki możemy ewentualnie zrezygnować.",
       "ingredients": ["Jagermeister", "Wódka", "Likier kawowy Kahlua", "Grenadyna", "Kostki lodu"],
@@ -71,6 +78,7 @@
     },
     {
       "id": 8,
+      "size": "small",
       "name": "Jager w tropikach - czyli ziołowy drink z Jagermeisterem",
       "description": "Połączenie kiwi i soku ananasowego, doprawione bazylią i likierem Jagermeister. Ziołowo-korzenny z domieszką słodkości ananasa trunek, może przypaść do gustu dla wielbicieli Jagermeistera. W przepisie mamy podaną większą ilość Jagermeistera, jeśli chcemy uzyskać mniej korzenny napój, dozujemy go według preferencji. Z wódki możemy zrezygnować, jeśli chcemy zmniejszyć ilość alkoholu.",
       "ingredients": ["Jagermeister", "Wódka", "Sok ananasowy", "Cytryna", "Kiwi", "Świeża bazylia", "Kostki lodu"],
@@ -81,6 +89,7 @@
     },
     {
       "id": 9,
+      "size": "small",
       "name": "Aperol Spritz - najbardziej popularny drink z Aperolem i Prosecco",
       "description": "Aperol Spritz to przepis na rozkoszną mieszankę Aperolu i wina musującego Prosecco, dopełnionego wodą gazowaną. Musujący, lekko ziołowy i jakże prosty do wykonania. Warto dodać, że cieszy się on ostatnio coraz to większą popularnością. Ponadto nuty smakowe goryczki i pomarańczy z rabarbarem to nie jedyne co w tym drinku znajdziecie. Nie zapomnijmy o bąbelkach które przepływają między językiem a podniebieniem. Jako, że jest to drink ze słonecznej Italii, świetnie nadaję się na letnie upały. Nie jest za słodki, lekko orzeźwiający a podany na zimno, zdecydowania ochładza. Warto wiedzieć, że drink Aperol Spritz podajemy w kieliszku od białego wina, lub szampana.",
       "ingredients": ["Prosecco", "Aperol", "Woda gazowana", "Kostki lodu"],
@@ -91,6 +100,7 @@
     },
     {
       "id": 10,
+      "size": "big",
       "name": "Aperol Spritz - najbardziej popularny drink z Aperolem i Prosecco",
       "description": "Aperol Spritz to przepis na rozkoszną mieszankę Aperolu i wina musującego Prosecco, dopełnionego wodą gazowaną. Musujący, lekko ziołowy i jakże prosty do wykonania. Warto dodać, że cieszy się on ostatnio coraz to większą popularnością. Ponadto nuty smakowe goryczki i pomarańczy z rabarbarem to nie jedyne co w tym drinku znajdziecie. Nie zapomnijmy o bąbelkach które przepływają między językiem a podniebieniem. Jako, że jest to drink ze słonecznej Italii, świetnie nadaję się na letnie upały. Nie jest za słodki, lekko orzeźwiający a podany na zimno, zdecydowania ochładza. Warto wiedzieć, że drink Aperol Spritz podajemy w kieliszku od białego wina, lub szampana.",
       "ingredients": ["Prosecco", "Aperol", "Woda gazowana", "Kostki lodu"],
@@ -101,6 +111,7 @@
     },
     {
       "id": 11,
+      "size": "small",
       "name": "Aperol Spritz - najbardziej popularny drink z Aperolem i Prosecco",
       "description": "Aperol Spritz to przepis na rozkoszną mieszankę Aperolu i wina musującego Prosecco, dopełnionego wodą gazowaną. Musujący, lekko ziołowy i jakże prosty do wykonania. Warto dodać, że cieszy się on ostatnio coraz to większą popularnością. Ponadto nuty smakowe goryczki i pomarańczy z rabarbarem to nie jedyne co w tym drinku znajdziecie. Nie zapomnijmy o bąbelkach które przepływają między językiem a podniebieniem. Jako, że jest to drink ze słonecznej Italii, świetnie nadaję się na letnie upały. Nie jest za słodki, lekko orzeźwiający a podany na zimno, zdecydowania ochładza. Warto wiedzieć, że drink Aperol Spritz podajemy w kieliszku od białego wina, lub szampana.",
       "ingredients": ["Prosecco", "Aperol", "Woda gazowana", "Kostki lodu"],
@@ -111,6 +122,7 @@
     },
     {
       "id": 12,
+      "size": "big",
       "name": "Aperol Spritz - najbardziej popularny drink z Aperolem i Prosecco",
       "description": "Aperol Spritz to przepis na rozkoszną mieszankę Aperolu i wina musującego Prosecco, dopełnionego wodą gazowaną. Musujący, lekko ziołowy i jakże prosty do wykonania. Warto dodać, że cieszy się on ostatnio coraz to większą popularnością. Ponadto nuty smakowe goryczki i pomarańczy z rabarbarem to nie jedyne co w tym drinku znajdziecie. Nie zapomnijmy o bąbelkach które przepływają między językiem a podniebieniem. Jako, że jest to drink ze słonecznej Italii, świetnie nadaję się na letnie upały. Nie jest za słodki, lekko orzeźwiający a podany na zimno, zdecydowania ochładza. Warto wiedzieć, że drink Aperol Spritz podajemy w kieliszku od białego wina, lub szampana.",
       "ingredients": ["Prosecco", "Aperol", "Woda gazowana", "Kostki lodu"],
